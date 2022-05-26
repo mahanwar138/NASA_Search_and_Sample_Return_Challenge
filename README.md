@@ -36,7 +36,7 @@ The file called `drive_rover.py` is what you will use to navigate the environmen
 python3 drive_rover.py
 ```  
 
-Then launch the simulator and choose "Autonomous Mode".  The rover should drive itself now!  It doesn't drive that well yet, but it's your job to make it better!  
+Then launch the simulator and choose "Autonomous Mode".  The rover should drive itself now! 
 
 ## Improving Color threshold Image
 I have improved the output of Color Threshold by Using OpenCV to remove Noise from output Image for better mapping
