@@ -41,4 +41,4 @@ Then launch the simulator and choose "Autonomous Mode".  The rover should drive 
 
 ## Improving Color threshold Image
 I have improved the output of Color Threshold by Using OpenCV to remove Noise from output Image for better mapping
-![alt text]([(https://github.com/mahanwar138/NASA_Search_and_Sample_Return_Challenge/blob/main/calibration_images/Screenshot%20from%202022-05-27%2001-04-04.png?raw=true)])
+![](https://github.com/mahanwar138/NASA_Search_and_Sample_Return_Challenge/blob/main/calibration_images/Screenshot%20from%202022-05-27%2001-04-04.png?raw=true))
